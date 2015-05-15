@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/josh/Source/GC2WII/GC2WII.sch)
+    (source /home/josh/Source/X2WII/HW/X2WII.sch)
     (date "Sun 03 May 2015 11:31:02 AM EDT")
     (tool "eeschema (2013-may-18)-stable"))
   (components
